@@ -1,0 +1,52 @@
+# Technical Specifications for Aimsir Web Application
+application:
+  name: Aimsir
+  description: Python/Flask Weather & Air Quality Web Platform
+  environment: local_development
+ 
+database_specs:
+  name: PostgreSQL
+  version: "16.1"
+  server: localhost
+  database: aimsir_db
+  port: 5432
+  username: postgres
+  password: postgres_password
+  prompt: "postgres=#"
+ 
+web_development:
+  language:
+    name: Python
+    version: "3.11.5"
+  framework:
+    name: Flask
+    version: "3.0.0"
+  ide: VS Code
+  dependencies:
+    - name: Flask-SQLAlchemy
+      version: "3.1.1"
+    - name: Flask-WTF
+      version: "1.2.1"
+    - name: psycopg2-binary
+      version: "2.9.9"
+    - name: requests
+      version: "2.31.0"
+    - name: pytest
+      version: "7.4.3"
+ 
+version_control:
+  tool: Git
+  platform: GitHub
+ 
+containerisation:
+  engine: Docker
+  version: "24.0.6"
+  base_image: "python:3.11-slim"
+ 
+pipeline:
+  tool: GitHub Actions
+  configuration_format: YAML
+  features:
+    - static_code_analysis
+    - unit_testing
+    - vulnerability_scanning

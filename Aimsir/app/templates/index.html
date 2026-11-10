@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="home-hero">
+    <p class="eyebrow">Welcome to Aimsir, the local Irish weather reporting community!</p>
+    <h1>Welcome, {{ user.username }}</h1>
+    <p class="hero-description">Share what you’re seeing and keep up with reports from your community.</p>
+</section>
+
+<section class="reports-section" aria-labelledby="reports-heading">
+    <div class="section-heading">
+        <p class="eyebrow">From your community</p>
+        <h2 id="reports-heading">Recent reports</h2>
+    </div>
+
+    <div class="reports-grid">
+        {% for post in recentSightings %}
+        <article class="report-card">
+            <span class="weather-tag weather-{{ post.s_weather_type|lower|replace(' ', '-') }}">{{ post.s_weather_type }}</span>
+            <p class="report-author">{{ post.userid }}</p>
+            <p class="report-body">{{ post.summary }}</p>
+            <p class="report-meta">{{ post.s_city }} · {{ post.s_datetime|nice_date }}</p>
+        </article>
+        {% else %}
+
+        <p class="empty-state">There are no reports to show yet.</p>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}
