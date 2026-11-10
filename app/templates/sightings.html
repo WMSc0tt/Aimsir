@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="page-header">
+    <p class="eyebrow">Share a sighting</p>
+    <h1>Report a weather sighting</h1>
+    <p class="page-header-description">Tell the community what you are seeing: where you are, the type of weather and a short description.</p>
+</section>
+<form action="" method="post" novalidate>
+    {{ form.hidden_tag() }}
+    <p>
+        {{ form.city.label }}<br>
+        {{ form.city(size=32) }}
+        {% for error in form.city.errors %}
+        <span class="field-error">{{ error }}</span>
+        {% endfor %}
+    </p>
+    <p>
+        {{ form.weather_type.label }}<br>
+        {{ form.weather_type() }}
+    </p>
+    <p>
+        {{ form.summary.label }}<br>
+        {{ form.summary(rows=4, cols=40) }}
+        {% for error in form.summary.errors %}
+        <span class="field-error">{{ error }}</span>
+        {% endfor %}
+    </p>
+    <p>
+        {{ form.submit() }}
+    </p>
+</form>
+{% endblock %}
