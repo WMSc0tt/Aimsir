@@ -1,0 +1,501 @@
+s_datetime,s_city,s_weather_type,summary,userid
+2025-01-01 06:10,Mallow,Fog,"Fog rolling in over Mallow, can barely see across the road.",darragh_murphy28
+2025-01-02 08:15,Shannon,Heavy Rain,Heavy rain and surface water on streets in Shannon.,jack_murray4
+2025-01-03 01:35,Cork City,Fog,"Thick fog in Cork City this morning, traffic moving slowly.",ciaran_kavanagh14
+2025-01-03 07:00,Kilkenny,High Winds,"High winds in Kilkenny, difficult walking along the seafront.",darragh_murphy28
+2025-01-04 11:10,Kilkenny,Heavy Rain,"Heavy rain in Kilkenny, roads flooding in places.",conor_daly54
+2025-01-04 18:10,Dublin,Heavy Rain,"Torrential downpour in Dublin, very poor visibility on the road.",aisling_fitzgerald2
+2025-01-04 21:25,Cork City,Fog,"Thick fog in Cork City this morning, traffic moving slowly.",maeve_kelly88
+2025-01-04 22:05,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,niamh_byrne48
+2025-01-05 14:50,Cork Airport,Heavy Rain,Heavy rain and surface water on streets in Cork Airport.,maeve_quinn57
+2025-01-06 19:15,Cork City,Fog,"Extremely dense fog in Cork City, visibility under 50 metres.",muireann_fitzgerald54
+2025-01-06 21:10,Kerry Airport,Fog,"Extremely dense fog in Kerry Airport, visibility under 50 metres.",ciaran_kelly26
+2025-01-06 23:30,Waterford,Heavy Rain,"Intense rain shower in Waterford, drains struggling to cope.",cathal_ryan71
+2025-01-08 15:40,Waterford,High Winds,"High winds in Waterford, difficult walking along the seafront.",muireann_fitzgerald54
+2025-01-09 05:50,Sligo,Heavy Rain,"Intense rain shower in Sligo, drains struggling to cope.",fionn_kelly20
+2025-01-11 11:20,Belfast,Storm,"Severe storm passing through Belfast, power flickered briefly.",darragh_byrne75
+2025-01-12 14:55,Dublin,High Winds,Windy conditions in Dublin making driving hard on exposed roads.,emma_kelly22
+2025-01-13 03:35,Cork Airport,Heavy Rain,Heavy rain and surface water on streets in Cork Airport.,rory_walsh38
+2025-01-13 03:50,Dublin,Storm,Stormy evening in Dublin with driving rain and strong wind.,rory_walsh38
+2025-01-14 03:00,Dundalk,Heavy Rain,"Torrential downpour in Dundalk, very poor visibility on the road.",fionn_murphy29
+2025-01-14 22:35,Mallow,Storm,Loud thunder and hail in Mallow during the storm.,cathal_ryan71
+2025-01-17 13:05,Donegal Town,Fog,"Fog rolling in over Donegal Town, can barely see across the road.",saoirse_murray72
+2025-01-17 15:40,Sligo,High Winds,"Strong westerly winds in Sligo, trampolines on the move.",darragh_murphy28
+2025-01-17 21:55,Dublin,Heavy Rain,"Heavy rain in Dublin, roads flooding in places.",roisin_mccarthy99
+2025-01-18 02:00,Cork City,High Winds,"High winds in Cork City, difficult walking along the seafront.",conor_brennan65
+2025-01-18 04:15,Waterford,Fog,"Fog rolling in over Waterford, can barely see across the road.",grainne_moore56
+2025-01-18 07:15,Bantry,Heavy Rain,"Heavy rain in Bantry, roads flooding in places.",emma_kelly22
+2025-01-20 21:40,Limerick,Heavy Rain,"Torrential downpour in Limerick, very poor visibility on the road.",maeve_kelly88
+2025-01-21 06:25,Donegal Town,Storm,"Thunder and lightning over Donegal Town, heavy gusts too.",saoirse_daly85
+2025-01-22 21:55,Shannon,Heavy Rain,"Heavy rain in Shannon, roads flooding in places.",aisling_kavanagh58
+2025-01-23 15:40,Mallow,Storm,Loud thunder and hail in Mallow during the storm.,emma_kelly22
+2025-01-24 03:20,Limerick,Heavy Rain,Heavy rain and surface water on streets in Limerick.,saoirse_murray87
+2025-01-24 12:50,Galway,Storm,Loud thunder and hail in Galway during the storm.,grainne_moore56
+2025-01-24 23:05,Shannon,Fog,"Freezing fog in Shannon, flights and drivers delayed.",liam_brennan29
+2025-01-25 00:45,Belfast,High Winds,"High winds in Belfast, difficult walking along the seafront.",saoirse_daly85
+2025-01-25 04:45,Shannon,Storm,"Thunder and lightning over Shannon, heavy gusts too.",sean_doyle41
+2025-01-27 00:55,Shannon,Fog,"Freezing fog in Shannon, flights and drivers delayed.",saoirse_daly85
+2025-01-28 08:35,Cork City,Heavy Rain,"Heavy rain in Cork City, roads flooding in places.",donal_moore7
+2025-01-29 21:25,Dublin,Fog,"Fog rolling in over Dublin, can barely see across the road.",padraig_mccarthy2
+2025-01-30 11:20,Limerick,Heavy Rain,Heavy rain and surface water on streets in Limerick.,conor_daly54
+2025-01-30 16:45,Belfast,Storm,"Severe storm passing through Belfast, power flickered briefly.",conor_mccarthy24
+2025-02-01 15:30,Cork Airport,High Winds,Windy conditions in Cork Airport making driving hard on exposed roads.,eoin_walsh66
+2025-02-03 09:45,Dublin,Fog,"Extremely dense fog in Dublin, visibility under 50 metres.",conor_brennan65
+2025-02-03 18:40,Kerry Airport,Fog,"Low fog banks around Kerry Airport, lights needed at midday.",jack_murray4
+2025-02-03 19:50,Athlone,Fog,"Fog rolling in over Athlone, can barely see across the road.",maeve_kelly88
+2025-02-03 22:35,Belfast,High Winds,"Very strong winds in Belfast, bins blown across the street.",saoirse_daly85
+2025-02-04 11:35,Limerick,High Winds,"Strong westerly winds in Limerick, trampolines on the move.",padraig_mccarthy2
+2025-02-04 23:55,Donegal Town,High Winds,"High winds in Donegal Town, difficult walking along the seafront.",cathal_ryan71
+2025-02-05 02:10,Killarney,Heavy Rain,Persistent heavy rain over Killarney for the past hour.,roisin_murray13
+2025-02-06 19:20,Cork Airport,Fog,"Fog rolling in over Cork Airport, can barely see across the road.",grainne_moore56
+2025-02-07 07:30,Shannon,Storm,Stormy evening in Shannon with driving rain and strong wind.,maeve_quinn57
+2025-02-07 11:15,Cork Airport,Storm,"Severe storm passing through Cork Airport, power flickered briefly.",rory_walsh27
+2025-02-07 15:05,Donegal Town,Storm,"Severe storm passing through Donegal Town, power flickered briefly.",muireann_doyle50
+2025-02-10 12:05,Kerry Airport,Heavy Rain,"Heavy rain in Kerry Airport, roads flooding in places.",maeve_quinn57
+2025-02-12 00:30,Dundalk,Storm,Loud thunder and hail in Dundalk during the storm.,grainne_burke97
+2025-02-12 04:35,Dublin,Heavy Rain,Heavy rain and surface water on streets in Dublin.,roisin_daly98
+2025-02-12 12:15,Limerick,Storm,"Thunder and lightning over Limerick, heavy gusts too.",donal_moore7
+2025-02-13 11:55,Shannon,High Winds,"Strong westerly winds in Shannon, trampolines on the move.",saoirse_daly85
+2025-02-13 12:45,Galway,Fog,"Fog rolling in over Galway, can barely see across the road.",ciaran_kavanagh14
+2025-02-13 14:15,Kilkenny,Storm,Stormy evening in Kilkenny with driving rain and strong wind.,niamh_byrne48
+2025-02-14 09:45,Dublin,Fog,"Thick fog in Dublin this morning, traffic moving slowly.",saoirse_murray87
+2025-02-15 01:25,Galway,Fog,"Extremely dense fog in Galway, visibility under 50 metres.",roisin_daly98
+2025-02-15 02:30,Galway,Fog,"Low fog banks around Galway, lights needed at midday.",cian_byrne67
+2025-02-17 16:45,Bantry,Fog,"Low fog banks around Bantry, lights needed at midday.",roisin_daly98
+2025-02-18 11:35,Dublin,Heavy Rain,Heavy rain and surface water on streets in Dublin.,aisling_ryan43
+2025-02-18 14:10,Clonakilty,High Winds,"Gale force gusts in Clonakilty, branches coming down.",rory_walsh38
+2025-02-19 02:20,Shannon,Heavy Rain,"Torrential downpour in Shannon, very poor visibility on the road.",cathal_moore66
+2025-02-19 02:55,Belfast,Fog,"Extremely dense fog in Belfast, visibility under 50 metres.",darragh_byrne75
+2025-02-19 05:35,Kerry Airport,High Winds,"Gale force gusts in Kerry Airport, branches coming down.",rory_walsh38
+2025-02-19 18:05,Dundalk,Heavy Rain,"Intense rain shower in Dundalk, drains struggling to cope.",aisling_brennan69
+2025-02-21 04:35,Shannon,High Winds,"High winds in Shannon, difficult walking along the seafront.",cathal_ryan71
+2025-02-21 09:30,Belfast,High Winds,"Strong westerly winds in Belfast, trampolines on the move.",darragh_murphy28
+2025-02-21 11:50,Waterford,Fog,"Low fog banks around Waterford, lights needed at midday.",aisling_brennan69
+2025-02-22 01:00,Bantry,Storm,Loud thunder and hail in Bantry during the storm.,jack_mccarthy45
+2025-02-23 02:45,Cork Airport,Heavy Rain,Heavy rain and surface water on streets in Cork Airport.,muireann_doyle50
+2025-02-23 23:35,Limerick,Heavy Rain,"Heavy rain in Limerick, roads flooding in places.",roisin_murray13
+2025-02-24 03:25,Limerick,Fog,"Extremely dense fog in Limerick, visibility under 50 metres.",emma_quinn55
+2025-02-24 20:05,Galway,Heavy Rain,"Torrential downpour in Galway, very poor visibility on the road.",saoirse_murray87
+2025-02-25 00:15,Cork City,Heavy Rain,"Heavy rain in Cork City, roads flooding in places.",ciaran_kavanagh14
+2025-02-25 02:25,Dundalk,Storm,"Thunder and lightning over Dundalk, heavy gusts too.",liam_brennan29
+2025-02-25 23:40,Shannon,Fog,"Fog rolling in over Shannon, can barely see across the road.",conor_brennan46
+2025-02-27 02:35,Waterford,Fog,"Thick fog in Waterford this morning, traffic moving slowly.",roisin_murray13
+2025-02-28 02:20,Sligo,High Winds,"Very strong winds in Sligo, bins blown across the street.",maeve_quinn57
+2025-02-28 23:45,Dundalk,Fog,"Extremely dense fog in Dundalk, visibility under 50 metres.",sean_doyle41
+2025-03-01 23:20,Galway,Storm,"Thunder and lightning over Galway, heavy gusts too.",rory_walsh38
+2025-03-03 02:20,Bantry,High Winds,"Strong westerly winds in Bantry, trampolines on the move.",darragh_byrne75
+2025-03-03 02:25,Limerick,Heavy Rain,Heavy rain and surface water on streets in Limerick.,ciaran_kavanagh14
+2025-03-04 16:30,Limerick,Storm,Stormy evening in Limerick with driving rain and strong wind.,jack_murray4
+2025-03-04 21:50,Shannon,Fog,"Extremely dense fog in Shannon, visibility under 50 metres.",saoirse_murray72
+2025-03-05 15:00,Athlone,Heavy Rain,"Intense rain shower in Athlone, drains struggling to cope.",maeve_quinn57
+2025-03-06 07:20,Kilkenny,Heavy Rain,"Heavy rain in Kilkenny, roads flooding in places.",muireann_doyle50
+2025-03-06 10:30,Shannon,High Winds,"High winds in Shannon, difficult walking along the seafront.",emma_quinn55
+2025-03-06 17:55,Athlone,Fog,"Low fog banks around Athlone, lights needed at midday.",rory_walsh38
+2025-03-07 05:50,Kilkenny,Heavy Rain,"Heavy rain in Kilkenny, roads flooding in places.",roisin_daly98
+2025-03-08 07:40,Galway,Fog,"Low fog banks around Galway, lights needed at midday.",roisin_murray13
+2025-03-08 13:50,Galway,High Winds,"High winds in Galway, difficult walking along the seafront.",aisling_kavanagh58
+2025-03-09 05:05,Mallow,Fog,"Thick fog in Mallow this morning, traffic moving slowly.",emma_brennan25
+2025-03-10 12:25,Sligo,Storm,"Severe storm passing through Sligo, power flickered briefly.",roisin_murray13
+2025-03-10 21:10,Belfast,Fog,"Low fog banks around Belfast, lights needed at midday.",cathal_moore66
+2025-03-11 00:30,Kilkenny,Heavy Rain,"Intense rain shower in Kilkenny, drains struggling to cope.",maeve_quinn57
+2025-03-11 02:50,Cork City,Heavy Rain,"Intense rain shower in Cork City, drains struggling to cope.",conor_mccarthy24
+2025-03-12 03:00,Cork City,High Winds,"Strong westerly winds in Cork City, trampolines on the move.",padraig_mccarthy2
+2025-03-15 03:50,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,conor_brennan44
+2025-03-15 23:30,Cork City,Heavy Rain,"Intense rain shower in Cork City, drains struggling to cope.",conor_brennan46
+2025-03-16 19:10,Dundalk,High Winds,"Gale force gusts in Dundalk, branches coming down.",roisin_murray13
+2025-03-16 21:15,Shannon,High Winds,"Very strong winds in Shannon, bins blown across the street.",fionn_kelly27
+2025-03-17 12:10,Limerick,Fog,"Low fog banks around Limerick, lights needed at midday.",saoirse_murray87
+2025-03-17 13:00,Limerick,High Winds,"Strong westerly winds in Limerick, trampolines on the move.",fionn_murphy29
+2025-03-17 18:40,Limerick,Heavy Rain,"Intense rain shower in Limerick, drains struggling to cope.",rory_walsh27
+2025-03-18 11:10,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,liam_brennan29
+2025-03-18 18:40,Dublin,High Winds,Windy conditions in Dublin making driving hard on exposed roads.,liam_doyle29
+2025-03-18 18:45,Kilkenny,High Winds,Windy conditions in Kilkenny making driving hard on exposed roads.,saoirse_murray87
+2025-03-19 01:10,Cork City,Storm,"Thunder and lightning over Cork City, heavy gusts too.",saoirse_murray72
+2025-03-19 09:00,Dublin,High Winds,Windy conditions in Dublin making driving hard on exposed roads.,liam_doyle29
+2025-03-19 11:50,Galway,Heavy Rain,"Intense rain shower in Galway, drains struggling to cope.",jack_obrien83
+2025-03-20 00:35,Dublin,Storm,"Severe storm passing through Dublin, power flickered briefly.",muireann_fitzgerald54
+2025-03-20 06:45,Cork City,Fog,"Low fog banks around Cork City, lights needed at midday.",maeve_kelly88
+2025-03-21 07:35,Sligo,Storm,"Storm conditions in Sligo, trees down on a side road.",conor_brennan65
+2025-03-22 21:35,Cork City,High Winds,"High winds in Cork City, difficult walking along the seafront.",donal_moore7
+2025-03-23 01:00,Athlone,Heavy Rain,Persistent heavy rain over Athlone for the past hour.,cian_obrien83
+2025-03-23 04:55,Cork City,Fog,"Fog rolling in over Cork City, can barely see across the road.",emma_kelly22
+2025-03-23 08:55,Shannon,Fog,"Low fog banks around Shannon, lights needed at midday.",emma_quinn55
+2025-03-23 10:00,Galway,High Winds,"Very strong winds in Galway, bins blown across the street.",darragh_byrne75
+2025-03-25 15:20,Kerry Airport,Heavy Rain,Persistent heavy rain over Kerry Airport for the past hour.,ciaran_kavanagh14
+2025-03-26 03:10,Cork City,High Winds,"Strong westerly winds in Cork City, trampolines on the move.",ciaran_kavanagh14
+2025-03-27 16:40,Kilkenny,Heavy Rain,"Torrential downpour in Kilkenny, very poor visibility on the road.",roisin_mccarthy99
+2025-03-28 00:35,Donegal Town,Heavy Rain,Persistent heavy rain over Donegal Town for the past hour.,cian_byrne67
+2025-03-28 05:35,Waterford,High Winds,"High winds in Waterford, difficult walking along the seafront.",roisin_murray13
+2025-03-28 23:05,Donegal Town,High Winds,"Very strong winds in Donegal Town, bins blown across the street.",darragh_murphy28
+2025-03-28 23:10,Galway,Fog,"Thick fog in Galway this morning, traffic moving slowly.",padraig_mccarthy2
+2025-03-30 14:20,Donegal Town,High Winds,"Very strong winds in Donegal Town, bins blown across the street.",roisin_mccarthy99
+2025-04-01 14:50,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",maeve_quinn57
+2025-04-02 22:00,Sligo,Heavy Rain,Persistent heavy rain over Sligo for the past hour.,aisling_ryan43
+2025-04-03 05:05,Belfast,Heavy Rain,Heavy rain and surface water on streets in Belfast.,saoirse_murray87
+2025-04-04 22:05,Cork City,Storm,"Thunder and lightning over Cork City, heavy gusts too.",emma_quinn55
+2025-04-05 16:20,Galway,Fog,"Low fog banks around Galway, lights needed at midday.",darragh_murphy28
+2025-04-06 17:50,Kerry Airport,High Winds,"Gale force gusts in Kerry Airport, branches coming down.",emma_kelly22
+2025-04-07 19:05,Cork Airport,Heavy Rain,Heavy rain and surface water on streets in Cork Airport.,conor_daly54
+2025-04-08 02:40,Donegal Town,High Winds,"High winds in Donegal Town, difficult walking along the seafront.",maeve_quinn57
+2025-04-08 03:40,Dublin,High Winds,"Gale force gusts in Dublin, branches coming down.",aisling_brennan69
+2025-04-08 14:35,Sligo,Storm,"Severe storm passing through Sligo, power flickered briefly.",maeve_quinn57
+2025-04-08 17:10,Cork City,Heavy Rain,"Torrential downpour in Cork City, very poor visibility on the road.",conor_brennan44
+2025-04-08 23:20,Galway,Heavy Rain,Persistent heavy rain over Galway for the past hour.,roisin_daly98
+2025-04-12 01:30,Clonakilty,Fog,"Extremely dense fog in Clonakilty, visibility under 50 metres.",liam_doyle29
+2025-04-12 21:00,Sligo,Storm,"Storm conditions in Sligo, trees down on a side road.",emma_kelly22
+2025-04-13 05:45,Waterford,High Winds,"Very strong winds in Waterford, bins blown across the street.",aisling_fitzgerald2
+2025-04-13 19:35,Kilkenny,Storm,Loud thunder and hail in Kilkenny during the storm.,sean_doyle41
+2025-04-13 20:00,Galway,Heavy Rain,Heavy rain and surface water on streets in Galway.,maeve_kelly88
+2025-04-14 01:50,Dublin,High Winds,"Strong westerly winds in Dublin, trampolines on the move.",jack_murray4
+2025-04-14 04:25,Athlone,Storm,"Severe storm passing through Athlone, power flickered briefly.",conor_mccarthy24
+2025-04-14 09:00,Donegal Town,Storm,"Thunder and lightning over Donegal Town, heavy gusts too.",emma_brennan25
+2025-04-14 10:15,Donegal Town,Storm,Loud thunder and hail in Donegal Town during the storm.,emma_quinn55
+2025-04-14 16:20,Athlone,High Winds,"Very strong winds in Athlone, bins blown across the street.",muireann_doyle50
+2025-04-14 18:30,Dublin,Storm,Loud thunder and hail in Dublin during the storm.,conor_daly54
+2025-04-14 19:10,Shannon,Storm,"Storm conditions in Shannon, trees down on a side road.",jack_murray4
+2025-04-15 15:55,Cork Airport,Heavy Rain,Persistent heavy rain over Cork Airport for the past hour.,saoirse_daly85
+2025-04-16 08:20,Cork City,Heavy Rain,"Heavy rain in Cork City, roads flooding in places.",darragh_byrne75
+2025-04-18 09:40,Dundalk,Storm,Loud thunder and hail in Dundalk during the storm.,cian_byrne67
+2025-04-18 20:15,Dundalk,Storm,Loud thunder and hail in Dundalk during the storm.,darragh_byrne75
+2025-04-19 17:25,Clonakilty,Storm,"Thunder and lightning over Clonakilty, heavy gusts too.",conor_brennan65
+2025-04-20 11:00,Shannon,Heavy Rain,"Heavy rain in Shannon, roads flooding in places.",orla_gallagher96
+2025-04-21 06:55,Cork Airport,High Winds,Windy conditions in Cork Airport making driving hard on exposed roads.,fionn_murphy29
+2025-04-23 19:10,Dundalk,Heavy Rain,"Intense rain shower in Dundalk, drains struggling to cope.",niamh_byrne48
+2025-04-23 20:25,Bantry,High Winds,Windy conditions in Bantry making driving hard on exposed roads.,darragh_murphy28
+2025-04-26 21:05,Waterford,Fog,"Extremely dense fog in Waterford, visibility under 50 metres.",grainne_moore56
+2025-04-27 11:15,Athlone,Heavy Rain,Heavy rain and surface water on streets in Athlone.,maeve_kelly88
+2025-04-27 16:35,Cork Airport,Storm,"Storm conditions in Cork Airport, trees down on a side road.",conor_mccarthy24
+2025-04-27 17:15,Cork City,Storm,Stormy evening in Cork City with driving rain and strong wind.,conor_brennan46
+2025-04-28 22:15,Mallow,Fog,"Extremely dense fog in Mallow, visibility under 50 metres.",saoirse_murray87
+2025-04-30 13:25,Limerick,High Winds,"High winds in Limerick, difficult walking along the seafront.",maeve_quinn57
+2025-05-02 13:50,Cork City,High Winds,"Strong westerly winds in Cork City, trampolines on the move.",darragh_byrne75
+2025-05-05 16:15,Belfast,Heavy Rain,"Heavy rain in Belfast, roads flooding in places.",emma_brennan25
+2025-05-05 18:20,Killarney,High Winds,"Very strong winds in Killarney, bins blown across the street.",padraig_mccarthy2
+2025-05-05 23:40,Donegal Town,Fog,"Fog rolling in over Donegal Town, can barely see across the road.",darragh_murphy28
+2025-05-06 07:20,Cork City,Fog,"Thick fog in Cork City this morning, traffic moving slowly.",rory_walsh38
+2025-05-06 08:35,Waterford,Storm,"Thunder and lightning over Waterford, heavy gusts too.",muireann_doyle50
+2025-05-06 13:00,Belfast,Heavy Rain,"Heavy rain in Belfast, roads flooding in places.",orla_gallagher96
+2025-05-06 16:00,Killarney,Heavy Rain,"Torrential downpour in Killarney, very poor visibility on the road.",liam_brennan29
+2025-05-10 14:50,Cork City,High Winds,"Strong westerly winds in Cork City, trampolines on the move.",saoirse_murray72
+2025-05-11 11:40,Shannon,Storm,"Storm conditions in Shannon, trees down on a side road.",orla_gallagher96
+2025-05-13 21:15,Mallow,High Winds,"Gale force gusts in Mallow, branches coming down.",donal_moore7
+2025-05-14 16:10,Waterford,Fog,"Fog rolling in over Waterford, can barely see across the road.",darragh_murphy28
+2025-05-15 06:55,Waterford,Fog,"Freezing fog in Waterford, flights and drivers delayed.",roisin_mccarthy99
+2025-05-16 05:30,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",aisling_brennan69
+2025-05-17 13:20,Sligo,Fog,"Freezing fog in Sligo, flights and drivers delayed.",orla_gallagher96
+2025-05-17 20:20,Cork City,High Winds,"Very strong winds in Cork City, bins blown across the street.",emma_kelly22
+2025-05-17 21:35,Limerick,Storm,Loud thunder and hail in Limerick during the storm.,saoirse_murray72
+2025-05-18 04:10,Cork City,Storm,"Thunder and lightning over Cork City, heavy gusts too.",aisling_kavanagh58
+2025-05-18 05:45,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",orla_gallagher96
+2025-05-18 09:50,Killarney,Fog,"Low fog banks around Killarney, lights needed at midday.",aisling_ryan43
+2025-05-18 17:10,Waterford,Storm,"Severe storm passing through Waterford, power flickered briefly.",rory_walsh38
+2025-05-19 10:00,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",muireann_fitzgerald54
+2025-05-20 00:45,Galway,Fog,"Freezing fog in Galway, flights and drivers delayed.",padraig_mccarthy2
+2025-05-20 00:50,Cork Airport,Fog,"Freezing fog in Cork Airport, flights and drivers delayed.",emma_quinn55
+2025-05-20 06:50,Cork Airport,High Winds,Windy conditions in Cork Airport making driving hard on exposed roads.,muireann_fitzgerald54
+2025-05-23 01:45,Belfast,High Winds,Windy conditions in Belfast making driving hard on exposed roads.,maeve_kelly88
+2025-05-23 17:35,Dublin,Heavy Rain,Heavy rain and surface water on streets in Dublin.,conor_brennan44
+2025-05-23 17:45,Kerry Airport,Fog,"Fog rolling in over Kerry Airport, can barely see across the road.",niamh_byrne48
+2025-05-23 20:20,Killarney,Storm,"Severe storm passing through Killarney, power flickered briefly.",saoirse_daly85
+2025-05-25 02:15,Cork Airport,Heavy Rain,Persistent heavy rain over Cork Airport for the past hour.,grainne_moore56
+2025-05-25 03:35,Shannon,High Winds,"Very strong winds in Shannon, bins blown across the street.",rory_walsh27
+2025-05-25 03:50,Kerry Airport,High Winds,"High winds in Kerry Airport, difficult walking along the seafront.",saoirse_murray87
+2025-05-25 06:00,Cork City,Fog,"Low fog banks around Cork City, lights needed at midday.",orla_gallagher96
+2025-05-27 13:35,Cork Airport,High Winds,"Gale force gusts in Cork Airport, branches coming down.",roisin_murray13
+2025-05-27 20:15,Limerick,Heavy Rain,Persistent heavy rain over Limerick for the past hour.,grainne_burke97
+2025-05-27 21:35,Cork Airport,High Winds,"Gale force gusts in Cork Airport, branches coming down.",aisling_fitzgerald2
+2025-05-28 00:10,Cork Airport,High Winds,"Very strong winds in Cork Airport, bins blown across the street.",conor_brennan44
+2025-05-28 03:50,Galway,High Winds,"Strong westerly winds in Galway, trampolines on the move.",saoirse_murray72
+2025-05-29 23:35,Galway,Storm,"Severe storm passing through Galway, power flickered briefly.",orla_gallagher96
+2025-05-30 09:40,Cork Airport,Heavy Rain,"Heavy rain in Cork Airport, roads flooding in places.",fionn_kelly27
+2025-05-30 18:10,Galway,Fog,"Fog rolling in over Galway, can barely see across the road.",saoirse_murray87
+2025-06-01 02:40,Dublin,Heavy Rain,"Heavy rain in Dublin, roads flooding in places.",conor_brennan65
+2025-06-02 06:40,Shannon,Storm,"Storm conditions in Shannon, trees down on a side road.",conor_brennan44
+2025-06-02 12:40,Mallow,Heavy Rain,"Intense rain shower in Mallow, drains struggling to cope.",emma_quinn55
+2025-06-03 12:00,Killarney,Heavy Rain,Heavy rain and surface water on streets in Killarney.,aisling_ryan43
+2025-06-03 12:25,Limerick,Storm,"Severe storm passing through Limerick, power flickered briefly.",emma_quinn55
+2025-06-05 07:20,Bantry,High Winds,"High winds in Bantry, difficult walking along the seafront.",jack_murray4
+2025-06-05 11:05,Dundalk,Heavy Rain,Persistent heavy rain over Dundalk for the past hour.,conor_brennan44
+2025-06-06 09:25,Cork City,Storm,Stormy evening in Cork City with driving rain and strong wind.,cathal_moore66
+2025-06-06 20:05,Belfast,Heavy Rain,"Heavy rain in Belfast, roads flooding in places.",cian_obrien83
+2025-06-08 13:50,Sligo,Heavy Rain,"Torrential downpour in Sligo, very poor visibility on the road.",darragh_murphy28
+2025-06-08 18:45,Donegal Town,Fog,"Low fog banks around Donegal Town, lights needed at midday.",cian_obrien83
+2025-06-08 18:55,Kilkenny,Fog,"Extremely dense fog in Kilkenny, visibility under 50 metres.",aisling_ryan43
+2025-06-09 22:40,Kilkenny,Heavy Rain,Heavy rain and surface water on streets in Kilkenny.,conor_daly54
+2025-06-10 07:00,Shannon,High Winds,"High winds in Shannon, difficult walking along the seafront.",cathal_moore66
+2025-06-10 13:00,Bantry,Storm,"Thunder and lightning over Bantry, heavy gusts too.",emma_quinn55
+2025-06-11 06:15,Shannon,Storm,"Thunder and lightning over Shannon, heavy gusts too.",conor_brennan65
+2025-06-13 06:25,Dublin,High Winds,"Gale force gusts in Dublin, branches coming down.",saoirse_murray87
+2025-06-13 15:20,Waterford,Fog,"Freezing fog in Waterford, flights and drivers delayed.",niamh_byrne57
+2025-06-13 16:10,Shannon,High Winds,"Strong westerly winds in Shannon, trampolines on the move.",padraig_mccarthy2
+2025-06-14 14:20,Kilkenny,Fog,"Extremely dense fog in Kilkenny, visibility under 50 metres.",jack_obrien83
+2025-06-14 23:10,Shannon,Fog,"Thick fog in Shannon this morning, traffic moving slowly.",sean_doyle41
+2025-06-15 17:30,Waterford,Heavy Rain,"Torrential downpour in Waterford, very poor visibility on the road.",fionn_kelly27
+2025-06-19 01:55,Dundalk,Heavy Rain,"Heavy rain in Dundalk, roads flooding in places.",liam_brennan29
+2025-06-19 05:30,Kerry Airport,Heavy Rain,Persistent heavy rain over Kerry Airport for the past hour.,jack_obrien83
+2025-06-20 20:05,Belfast,High Winds,"Gale force gusts in Belfast, branches coming down.",cathal_moore66
+2025-06-21 03:45,Limerick,Heavy Rain,"Torrential downpour in Limerick, very poor visibility on the road.",conor_mccarthy24
+2025-06-22 23:20,Sligo,Heavy Rain,"Heavy rain in Sligo, roads flooding in places.",liam_brennan29
+2025-06-23 04:45,Dublin,Fog,"Low fog banks around Dublin, lights needed at midday.",saoirse_murray72
+2025-06-23 18:50,Limerick,Fog,"Extremely dense fog in Limerick, visibility under 50 metres.",jack_mccarthy45
+2025-06-24 04:20,Limerick,High Winds,Windy conditions in Limerick making driving hard on exposed roads.,jack_obrien83
+2025-06-25 00:40,Bantry,High Winds,"Strong westerly winds in Bantry, trampolines on the move.",darragh_murphy28
+2025-06-25 20:35,Kerry Airport,High Winds,"Very strong winds in Kerry Airport, bins blown across the street.",conor_daly54
+2025-06-26 00:15,Bantry,Fog,"Fog rolling in over Bantry, can barely see across the road.",saoirse_murray72
+2025-06-26 03:00,Galway,High Winds,"Gale force gusts in Galway, branches coming down.",grainne_moore56
+2025-06-26 10:10,Cork Airport,High Winds,"High winds in Cork Airport, difficult walking along the seafront.",grainne_burke97
+2025-06-29 09:10,Kerry Airport,Storm,"Storm conditions in Kerry Airport, trees down on a side road.",aisling_kavanagh58
+2025-06-30 10:05,Belfast,Fog,"Thick fog in Belfast this morning, traffic moving slowly.",darragh_byrne75
+2025-07-01 01:55,Galway,Storm,"Severe storm passing through Galway, power flickered briefly.",aisling_ryan43
+2025-07-01 13:05,Dundalk,Fog,"Extremely dense fog in Dundalk, visibility under 50 metres.",aisling_kavanagh58
+2025-07-01 16:00,Cork City,Fog,"Freezing fog in Cork City, flights and drivers delayed.",saoirse_daly85
+2025-07-02 13:25,Shannon,Storm,"Thunder and lightning over Shannon, heavy gusts too.",emma_kelly22
+2025-07-02 19:15,Galway,Heavy Rain,"Heavy rain in Galway, roads flooding in places.",niamh_byrne48
+2025-07-03 08:25,Kerry Airport,Fog,"Low fog banks around Kerry Airport, lights needed at midday.",niamh_byrne48
+2025-07-03 10:05,Shannon,Fog,"Fog rolling in over Shannon, can barely see across the road.",roisin_murray13
+2025-07-03 12:10,Cork City,High Winds,"Gale force gusts in Cork City, branches coming down.",fionn_murphy29
+2025-07-05 20:20,Sligo,High Winds,"High winds in Sligo, difficult walking along the seafront.",maeve_quinn57
+2025-07-06 15:45,Galway,Heavy Rain,"Torrential downpour in Galway, very poor visibility on the road.",aisling_brennan69
+2025-07-07 02:40,Dublin,Heavy Rain,Persistent heavy rain over Dublin for the past hour.,grainne_moore56
+2025-07-08 00:30,Dundalk,Storm,Stormy evening in Dundalk with driving rain and strong wind.,maeve_quinn57
+2025-07-09 00:05,Sligo,Heavy Rain,Persistent heavy rain over Sligo for the past hour.,fionn_kelly27
+2025-07-09 08:25,Clonakilty,Storm,Loud thunder and hail in Clonakilty during the storm.,saoirse_daly85
+2025-07-09 20:25,Dublin,High Winds,"Gale force gusts in Dublin, branches coming down.",muireann_doyle50
+2025-07-10 14:55,Limerick,Storm,Loud thunder and hail in Limerick during the storm.,aisling_ryan43
+2025-07-17 13:30,Galway,Fog,"Freezing fog in Galway, flights and drivers delayed.",conor_brennan44
+2025-07-18 14:30,Dublin,Storm,Loud thunder and hail in Dublin during the storm.,padraig_mccarthy2
+2025-07-18 16:10,Donegal Town,Storm,"Storm conditions in Donegal Town, trees down on a side road.",jack_mccarthy45
+2025-07-19 00:00,Limerick,High Winds,"High winds in Limerick, difficult walking along the seafront.",ciara_obrien32
+2025-07-19 14:35,Belfast,High Winds,Windy conditions in Belfast making driving hard on exposed roads.,emma_quinn55
+2025-07-19 16:55,Dundalk,Fog,"Fog rolling in over Dundalk, can barely see across the road.",fionn_kelly20
+2025-07-19 17:10,Shannon,Storm,"Storm conditions in Shannon, trees down on a side road.",grainne_moore56
+2025-07-19 23:30,Kerry Airport,Storm,"Thunder and lightning over Kerry Airport, heavy gusts too.",roisin_daly98
+2025-07-20 03:15,Donegal Town,Storm,"Thunder and lightning over Donegal Town, heavy gusts too.",emma_quinn55
+2025-07-20 20:35,Limerick,Storm,Stormy evening in Limerick with driving rain and strong wind.,eoin_walsh66
+2025-07-21 02:00,Waterford,Heavy Rain,"Heavy rain in Waterford, roads flooding in places.",saoirse_murray72
+2025-07-21 05:40,Cork Airport,Heavy Rain,Persistent heavy rain over Cork Airport for the past hour.,niamh_byrne57
+2025-07-21 07:00,Kilkenny,Heavy Rain,Heavy rain and surface water on streets in Kilkenny.,darragh_byrne75
+2025-07-21 18:15,Donegal Town,Heavy Rain,Heavy rain and surface water on streets in Donegal Town.,aisling_brennan69
+2025-07-24 01:20,Donegal Town,High Winds,"High winds in Donegal Town, difficult walking along the seafront.",conor_mccarthy24
+2025-07-24 11:25,Waterford,High Winds,"Very strong winds in Waterford, bins blown across the street.",conor_mccarthy24
+2025-07-24 14:50,Limerick,Storm,"Thunder and lightning over Limerick, heavy gusts too.",ciaran_kavanagh14
+2025-07-24 21:45,Mallow,Fog,"Low fog banks around Mallow, lights needed at midday.",orla_gallagher96
+2025-07-26 00:45,Dublin,High Winds,"High winds in Dublin, difficult walking along the seafront.",ciara_obrien32
+2025-07-26 03:45,Cork Airport,Storm,"Thunder and lightning over Cork Airport, heavy gusts too.",cathal_ryan71
+2025-07-26 06:50,Kilkenny,High Winds,"Gale force gusts in Kilkenny, branches coming down.",aisling_kavanagh58
+2025-07-26 15:05,Kerry Airport,Fog,"Thick fog in Kerry Airport this morning, traffic moving slowly.",fionn_kelly27
+2025-07-27 03:55,Athlone,Fog,"Low fog banks around Athlone, lights needed at midday.",conor_daly54
+2025-07-27 12:35,Dublin,Heavy Rain,Persistent heavy rain over Dublin for the past hour.,ciaran_kelly26
+2025-07-27 15:15,Killarney,High Winds,"Very strong winds in Killarney, bins blown across the street.",liam_doyle29
+2025-07-27 19:35,Sligo,Fog,"Freezing fog in Sligo, flights and drivers delayed.",padraig_mccarthy2
+2025-07-28 04:40,Clonakilty,Storm,"Thunder and lightning over Clonakilty, heavy gusts too.",grainne_burke97
+2025-07-28 05:25,Waterford,Storm,"Thunder and lightning over Waterford, heavy gusts too.",ciara_obrien32
+2025-07-28 21:20,Belfast,Heavy Rain,Persistent heavy rain over Belfast for the past hour.,fionn_kelly20
+2025-07-29 04:35,Donegal Town,Heavy Rain,Heavy rain and surface water on streets in Donegal Town.,aisling_brennan69
+2025-07-29 08:50,Dublin,High Winds,Windy conditions in Dublin making driving hard on exposed roads.,niamh_byrne57
+2025-07-29 19:35,Cork Airport,High Winds,"Strong westerly winds in Cork Airport, trampolines on the move.",aisling_ryan43
+2025-07-29 21:40,Dublin,Fog,"Thick fog in Dublin this morning, traffic moving slowly.",aisling_kavanagh58
+2025-07-30 00:50,Dundalk,High Winds,"Gale force gusts in Dundalk, branches coming down.",saoirse_murray87
+2025-07-30 07:40,Dundalk,High Winds,"Strong westerly winds in Dundalk, trampolines on the move.",cathal_moore66
+2025-07-30 17:55,Limerick,Heavy Rain,"Heavy rain in Limerick, roads flooding in places.",sean_doyle41
+2025-07-31 19:45,Limerick,Fog,"Thick fog in Limerick this morning, traffic moving slowly.",emma_brennan25
+2025-07-31 23:25,Donegal Town,High Winds,Windy conditions in Donegal Town making driving hard on exposed roads.,conor_brennan44
+2025-08-01 19:10,Dublin,Fog,"Thick fog in Dublin this morning, traffic moving slowly.",darragh_byrne75
+2025-08-02 00:15,Cork City,Heavy Rain,"Torrential downpour in Cork City, very poor visibility on the road.",cathal_moore66
+2025-08-02 03:40,Cork City,Heavy Rain,Heavy rain and surface water on streets in Cork City.,liam_brennan29
+2025-08-03 09:10,Donegal Town,Heavy Rain,Persistent heavy rain over Donegal Town for the past hour.,cian_obrien83
+2025-08-03 14:50,Limerick,High Winds,"High winds in Limerick, difficult walking along the seafront.",aisling_kavanagh58
+2025-08-03 23:30,Waterford,High Winds,"Very strong winds in Waterford, bins blown across the street.",ciara_obrien32
+2025-08-05 12:50,Kerry Airport,Fog,"Extremely dense fog in Kerry Airport, visibility under 50 metres.",donal_moore7
+2025-08-06 00:35,Cork Airport,Heavy Rain,"Heavy rain in Cork Airport, roads flooding in places.",ciaran_kavanagh14
+2025-08-06 03:10,Kilkenny,High Winds,Windy conditions in Kilkenny making driving hard on exposed roads.,roisin_murray13
+2025-08-07 03:35,Waterford,Storm,Stormy evening in Waterford with driving rain and strong wind.,orla_gallagher96
+2025-08-07 07:15,Donegal Town,Heavy Rain,"Intense rain shower in Donegal Town, drains struggling to cope.",cathal_moore66
+2025-08-07 12:20,Dublin,Heavy Rain,Heavy rain and surface water on streets in Dublin.,ciaran_kavanagh14
+2025-08-08 00:10,Waterford,Storm,"Thunder and lightning over Waterford, heavy gusts too.",aisling_fitzgerald2
+2025-08-08 09:50,Dundalk,Heavy Rain,Heavy rain and surface water on streets in Dundalk.,donal_moore7
+2025-08-08 15:10,Dublin,Heavy Rain,"Intense rain shower in Dublin, drains struggling to cope.",saoirse_murray87
+2025-08-08 20:10,Kerry Airport,Storm,"Thunder and lightning over Kerry Airport, heavy gusts too.",aisling_brennan69
+2025-08-11 12:20,Dublin,High Winds,"Very strong winds in Dublin, bins blown across the street.",cian_byrne67
+2025-08-11 13:00,Dundalk,Storm,"Severe storm passing through Dundalk, power flickered briefly.",rory_walsh38
+2025-08-12 11:00,Mallow,Storm,Stormy evening in Mallow with driving rain and strong wind.,fionn_kelly27
+2025-08-13 11:15,Clonakilty,High Winds,Windy conditions in Clonakilty making driving hard on exposed roads.,eoin_walsh66
+2025-08-14 16:50,Dublin,Heavy Rain,"Torrential downpour in Dublin, very poor visibility on the road.",ciara_obrien32
+2025-08-15 11:00,Kerry Airport,High Winds,"Strong westerly winds in Kerry Airport, trampolines on the move.",cian_byrne67
+2025-08-15 20:50,Mallow,Heavy Rain,"Heavy rain in Mallow, roads flooding in places.",emma_brennan25
+2025-08-18 14:45,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",cian_byrne67
+2025-08-19 17:50,Kerry Airport,Fog,"Low fog banks around Kerry Airport, lights needed at midday.",fionn_murphy29
+2025-08-21 10:50,Athlone,Fog,"Thick fog in Athlone this morning, traffic moving slowly.",sean_doyle41
+2025-08-21 14:40,Limerick,High Winds,"Gale force gusts in Limerick, branches coming down.",jack_murray4
+2025-08-23 07:45,Sligo,Heavy Rain,"Intense rain shower in Sligo, drains struggling to cope.",sean_doyle41
+2025-08-25 15:20,Athlone,High Winds,"Gale force gusts in Athlone, branches coming down.",ciara_obrien32
+2025-08-26 13:40,Limerick,Heavy Rain,"Heavy rain in Limerick, roads flooding in places.",fionn_murphy29
+2025-08-26 19:00,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",grainne_burke97
+2025-08-26 21:20,Dublin,Heavy Rain,"Intense rain shower in Dublin, drains struggling to cope.",liam_brennan29
+2025-08-27 16:40,Limerick,Storm,Loud thunder and hail in Limerick during the storm.,cian_obrien83
+2025-08-29 14:50,Galway,High Winds,"High winds in Galway, difficult walking along the seafront.",rory_walsh27
+2025-08-29 17:40,Cork City,High Winds,"Gale force gusts in Cork City, branches coming down.",ciaran_kavanagh14
+2025-08-30 09:10,Cork City,Heavy Rain,Persistent heavy rain over Cork City for the past hour.,aisling_kavanagh58
+2025-08-30 10:15,Cork Airport,High Winds,"Strong westerly winds in Cork Airport, trampolines on the move.",jack_obrien83
+2025-09-01 12:55,Shannon,High Winds,Windy conditions in Shannon making driving hard on exposed roads.,sean_doyle41
+2025-09-01 16:00,Kilkenny,Fog,"Extremely dense fog in Kilkenny, visibility under 50 metres.",aisling_kavanagh58
+2025-09-02 11:35,Cork City,High Winds,"Strong westerly winds in Cork City, trampolines on the move.",eoin_walsh66
+2025-09-03 05:45,Sligo,Storm,"Thunder and lightning over Sligo, heavy gusts too.",aisling_fitzgerald2
+2025-09-04 11:50,Mallow,Heavy Rain,"Torrential downpour in Mallow, very poor visibility on the road.",maeve_quinn57
+2025-09-04 19:10,Waterford,High Winds,Windy conditions in Waterford making driving hard on exposed roads.,cathal_ryan71
+2025-09-05 14:00,Killarney,Heavy Rain,"Intense rain shower in Killarney, drains struggling to cope.",eoin_walsh66
+2025-09-08 19:05,Sligo,Fog,"Extremely dense fog in Sligo, visibility under 50 metres.",darragh_murphy28
+2025-09-10 11:00,Limerick,High Winds,"Very strong winds in Limerick, bins blown across the street.",emma_brennan25
+2025-09-10 14:30,Clonakilty,Heavy Rain,Persistent heavy rain over Clonakilty for the past hour.,fionn_kelly20
+2025-09-11 00:05,Cork City,High Winds,"High winds in Cork City, difficult walking along the seafront.",jack_obrien83
+2025-09-12 00:35,Dundalk,Storm,"Thunder and lightning over Dundalk, heavy gusts too.",roisin_murray13
+2025-09-12 14:40,Cork Airport,Fog,"Low fog banks around Cork Airport, lights needed at midday.",aisling_fitzgerald2
+2025-09-13 05:15,Sligo,Storm,Stormy evening in Sligo with driving rain and strong wind.,grainne_burke97
+2025-09-14 02:20,Limerick,Heavy Rain,Persistent heavy rain over Limerick for the past hour.,cian_obrien83
+2025-09-15 11:25,Waterford,High Winds,"Gale force gusts in Waterford, branches coming down.",conor_brennan65
+2025-09-17 01:15,Shannon,Heavy Rain,Heavy rain and surface water on streets in Shannon.,fionn_kelly27
+2025-09-17 07:55,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,darragh_byrne75
+2025-09-18 20:20,Dublin,Storm,Loud thunder and hail in Dublin during the storm.,grainne_burke97
+2025-09-19 09:40,Shannon,Fog,"Low fog banks around Shannon, lights needed at midday.",ciara_obrien32
+2025-09-19 17:50,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,jack_mccarthy45
+2025-09-19 18:55,Kilkenny,High Winds,"High winds in Kilkenny, difficult walking along the seafront.",roisin_mccarthy99
+2025-09-19 19:30,Bantry,Storm,"Storm conditions in Bantry, trees down on a side road.",maeve_quinn57
+2025-09-21 21:30,Shannon,Fog,"Thick fog in Shannon this morning, traffic moving slowly.",sean_doyle41
+2025-09-22 17:25,Shannon,High Winds,"High winds in Shannon, difficult walking along the seafront.",rory_walsh27
+2025-09-23 00:45,Athlone,Storm,"Thunder and lightning over Athlone, heavy gusts too.",sean_doyle41
+2025-09-23 18:05,Waterford,Fog,"Low fog banks around Waterford, lights needed at midday.",rory_walsh38
+2025-09-24 23:35,Dublin,Storm,"Storm conditions in Dublin, trees down on a side road.",cian_obrien83
+2025-09-24 23:50,Dublin,Heavy Rain,"Torrential downpour in Dublin, very poor visibility on the road.",aisling_brennan69
+2025-09-25 09:55,Bantry,Storm,Stormy evening in Bantry with driving rain and strong wind.,rory_walsh38
+2025-09-26 14:15,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",aisling_ryan43
+2025-09-27 03:05,Waterford,Fog,"Low fog banks around Waterford, lights needed at midday.",padraig_mccarthy2
+2025-09-27 05:25,Cork Airport,High Winds,"Strong westerly winds in Cork Airport, trampolines on the move.",roisin_murray13
+2025-09-28 21:05,Kerry Airport,High Winds,"High winds in Kerry Airport, difficult walking along the seafront.",jack_obrien83
+2025-09-28 22:40,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",niamh_byrne48
+2025-09-29 06:15,Killarney,Storm,"Storm conditions in Killarney, trees down on a side road.",conor_brennan46
+2025-09-29 07:45,Sligo,Storm,"Thunder and lightning over Sligo, heavy gusts too.",aisling_ryan43
+2025-09-30 23:35,Cork City,Fog,"Extremely dense fog in Cork City, visibility under 50 metres.",fionn_kelly27
+2025-10-02 05:30,Limerick,High Winds,Windy conditions in Limerick making driving hard on exposed roads.,darragh_murphy28
+2025-10-04 06:45,Killarney,Fog,"Fog rolling in over Killarney, can barely see across the road.",muireann_fitzgerald54
+2025-10-04 14:25,Galway,Heavy Rain,"Heavy rain in Galway, roads flooding in places.",cian_byrne67
+2025-10-05 12:40,Waterford,High Winds,"Very strong winds in Waterford, bins blown across the street.",cathal_moore66
+2025-10-08 07:25,Sligo,Fog,"Low fog banks around Sligo, lights needed at midday.",aisling_kavanagh58
+2025-10-09 18:45,Bantry,High Winds,"Very strong winds in Bantry, bins blown across the street.",darragh_byrne75
+2025-10-10 08:10,Galway,High Winds,"Gale force gusts in Galway, branches coming down.",rory_walsh38
+2025-10-10 13:35,Shannon,Storm,"Thunder and lightning over Shannon, heavy gusts too.",roisin_murray13
+2025-10-11 17:55,Cork City,Fog,"Fog rolling in over Cork City, can barely see across the road.",cian_byrne67
+2025-10-12 16:55,Galway,Heavy Rain,Heavy rain and surface water on streets in Galway.,grainne_moore56
+2025-10-13 20:55,Dublin,High Winds,"High winds in Dublin, difficult walking along the seafront.",saoirse_daly85
+2025-10-14 08:35,Donegal Town,Heavy Rain,"Torrential downpour in Donegal Town, very poor visibility on the road.",emma_quinn55
+2025-10-14 11:50,Cork City,Fog,"Thick fog in Cork City this morning, traffic moving slowly.",emma_quinn55
+2025-10-15 07:35,Limerick,High Winds,Windy conditions in Limerick making driving hard on exposed roads.,cian_obrien83
+2025-10-15 23:50,Waterford,Storm,"Storm conditions in Waterford, trees down on a side road.",cian_byrne67
+2025-10-16 02:45,Bantry,Heavy Rain,"Torrential downpour in Bantry, very poor visibility on the road.",rory_walsh27
+2025-10-16 07:55,Killarney,Fog,"Freezing fog in Killarney, flights and drivers delayed.",liam_doyle29
+2025-10-16 15:45,Cork Airport,High Winds,"Strong westerly winds in Cork Airport, trampolines on the move.",jack_obrien83
+2025-10-17 14:35,Waterford,Storm,Stormy evening in Waterford with driving rain and strong wind.,jack_murray4
+2025-10-18 22:15,Mallow,Storm,Stormy evening in Mallow with driving rain and strong wind.,liam_brennan29
+2025-10-20 03:50,Dublin,Storm,"Thunder and lightning over Dublin, heavy gusts too.",cian_byrne67
+2025-10-20 06:15,Waterford,Heavy Rain,Persistent heavy rain over Waterford for the past hour.,grainne_burke97
+2025-10-21 03:35,Sligo,Storm,Loud thunder and hail in Sligo during the storm.,roisin_mccarthy99
+2025-10-22 11:35,Galway,Storm,"Severe storm passing through Galway, power flickered briefly.",rory_walsh27
+2025-10-23 02:55,Cork City,Storm,"Thunder and lightning over Cork City, heavy gusts too.",conor_brennan44
+2025-10-24 07:45,Belfast,Storm,Stormy evening in Belfast with driving rain and strong wind.,liam_brennan29
+2025-10-24 10:00,Belfast,Storm,"Thunder and lightning over Belfast, heavy gusts too.",grainne_moore56
+2025-10-25 02:20,Belfast,Fog,"Low fog banks around Belfast, lights needed at midday.",rory_walsh38
+2025-10-25 02:30,Clonakilty,High Winds,Windy conditions in Clonakilty making driving hard on exposed roads.,emma_quinn55
+2025-10-25 10:10,Sligo,Storm,Stormy evening in Sligo with driving rain and strong wind.,cathal_moore66
+2025-10-26 01:45,Galway,High Winds,Windy conditions in Galway making driving hard on exposed roads.,cian_obrien83
+2025-10-26 11:55,Dublin,Fog,"Low fog banks around Dublin, lights needed at midday.",orla_gallagher96
+2025-10-26 19:55,Cork Airport,Storm,"Storm conditions in Cork Airport, trees down on a side road.",eoin_walsh66
+2025-10-26 20:05,Kilkenny,Storm,Loud thunder and hail in Kilkenny during the storm.,orla_gallagher96
+2025-10-27 17:15,Cork Airport,High Winds,"Gale force gusts in Cork Airport, branches coming down.",niamh_byrne48
+2025-10-29 08:55,Galway,Heavy Rain,Persistent heavy rain over Galway for the past hour.,darragh_byrne75
+2025-10-30 18:35,Galway,Fog,"Fog rolling in over Galway, can barely see across the road.",jack_murray4
+2025-11-01 08:30,Cork Airport,Storm,Stormy evening in Cork Airport with driving rain and strong wind.,padraig_mccarthy2
+2025-11-01 10:20,Cork Airport,High Winds,Windy conditions in Cork Airport making driving hard on exposed roads.,cian_obrien83
+2025-11-01 18:00,Clonakilty,High Winds,"High winds in Clonakilty, difficult walking along the seafront.",rory_walsh27
+2025-11-02 01:25,Mallow,High Winds,"Very strong winds in Mallow, bins blown across the street.",maeve_kelly88
+2025-11-02 06:55,Galway,High Winds,Windy conditions in Galway making driving hard on exposed roads.,liam_brennan29
+2025-11-02 12:50,Cork City,Heavy Rain,"Intense rain shower in Cork City, drains struggling to cope.",sean_doyle41
+2025-11-03 03:15,Killarney,Storm,"Thunder and lightning over Killarney, heavy gusts too.",muireann_fitzgerald54
+2025-11-04 14:15,Dublin,Storm,"Storm conditions in Dublin, trees down on a side road.",roisin_daly98
+2025-11-06 03:40,Dundalk,Fog,"Thick fog in Dundalk this morning, traffic moving slowly.",eoin_walsh66
+2025-11-06 08:50,Clonakilty,Fog,"Low fog banks around Clonakilty, lights needed at midday.",liam_doyle29
+2025-11-06 09:35,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",aisling_brennan69
+2025-11-06 18:15,Cork City,Heavy Rain,Heavy rain and surface water on streets in Cork City.,emma_kelly22
+2025-11-06 23:20,Killarney,Storm,Loud thunder and hail in Killarney during the storm.,roisin_mccarthy99
+2025-11-07 16:55,Killarney,Fog,"Thick fog in Killarney this morning, traffic moving slowly.",jack_murray4
+2025-11-08 04:00,Dublin,Storm,"Severe storm passing through Dublin, power flickered briefly.",emma_quinn55
+2025-11-08 06:35,Bantry,High Winds,"High winds in Bantry, difficult walking along the seafront.",ciaran_kelly26
+2025-11-09 09:40,Cork City,High Winds,Windy conditions in Cork City making driving hard on exposed roads.,roisin_mccarthy99
+2025-11-09 10:40,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",cathal_moore66
+2025-11-09 22:25,Waterford,Storm,Stormy evening in Waterford with driving rain and strong wind.,fionn_kelly27
+2025-11-10 00:45,Kilkenny,Storm,"Severe storm passing through Kilkenny, power flickered briefly.",emma_brennan25
+2025-11-10 03:35,Limerick,Storm,"Severe storm passing through Limerick, power flickered briefly.",ciara_obrien32
+2025-11-10 12:55,Dublin,Storm,"Severe storm passing through Dublin, power flickered briefly.",liam_doyle29
+2025-11-12 20:30,Kilkenny,Heavy Rain,Persistent heavy rain over Kilkenny for the past hour.,liam_doyle29
+2025-11-12 21:50,Cork City,Heavy Rain,"Intense rain shower in Cork City, drains struggling to cope.",rory_walsh38
+2025-11-13 01:15,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",ciaran_kavanagh14
+2025-11-14 10:15,Dublin,Storm,"Severe storm passing through Dublin, power flickered briefly.",donal_moore7
+2025-11-15 07:20,Killarney,Storm,"Storm conditions in Killarney, trees down on a side road.",ciaran_kavanagh14
+2025-11-15 20:25,Galway,Heavy Rain,"Torrential downpour in Galway, very poor visibility on the road.",roisin_mccarthy99
+2025-11-16 09:50,Limerick,Fog,"Freezing fog in Limerick, flights and drivers delayed.",cathal_ryan71
+2025-11-17 03:40,Limerick,High Winds,Windy conditions in Limerick making driving hard on exposed roads.,jack_obrien83
+2025-11-20 21:30,Dundalk,Fog,"Fog rolling in over Dundalk, can barely see across the road.",rory_walsh27
+2025-11-22 03:10,Bantry,High Winds,Windy conditions in Bantry making driving hard on exposed roads.,cathal_ryan71
+2025-11-22 11:20,Shannon,High Winds,"Gale force gusts in Shannon, branches coming down.",niamh_byrne48
+2025-11-22 22:15,Clonakilty,Storm,"Thunder and lightning over Clonakilty, heavy gusts too.",jack_murray4
+2025-11-23 06:45,Galway,Heavy Rain,Persistent heavy rain over Galway for the past hour.,aisling_ryan43
+2025-11-24 02:30,Killarney,Heavy Rain,Heavy rain and surface water on streets in Killarney.,darragh_byrne75
+2025-11-24 07:30,Cork Airport,Heavy Rain,"Torrential downpour in Cork Airport, very poor visibility on the road.",maeve_quinn57
+2025-11-25 07:10,Cork Airport,High Winds,"Gale force gusts in Cork Airport, branches coming down.",darragh_murphy28
+2025-11-27 10:20,Waterford,Storm,Loud thunder and hail in Waterford during the storm.,cathal_ryan71
+2025-11-30 03:55,Dublin,Storm,Loud thunder and hail in Dublin during the storm.,jack_obrien83
+2025-11-30 18:05,Dundalk,Heavy Rain,"Torrential downpour in Dundalk, very poor visibility on the road.",saoirse_murray87
+2025-12-02 08:20,Dublin,Fog,"Fog rolling in over Dublin, can barely see across the road.",aisling_kavanagh58
+2025-12-02 19:45,Kilkenny,Heavy Rain,"Heavy rain in Kilkenny, roads flooding in places.",aisling_kavanagh58
+2025-12-05 02:45,Galway,Storm,"Thunder and lightning over Galway, heavy gusts too.",rory_walsh38
+2025-12-05 03:05,Waterford,Storm,Stormy evening in Waterford with driving rain and strong wind.,saoirse_murray87
+2025-12-05 04:00,Limerick,High Winds,"High winds in Limerick, difficult walking along the seafront.",conor_mccarthy24
+2025-12-05 20:40,Waterford,Fog,"Fog rolling in over Waterford, can barely see across the road.",jack_obrien83
+2025-12-05 22:45,Kilkenny,High Winds,"Very strong winds in Kilkenny, bins blown across the street.",cian_obrien83
+2025-12-06 16:30,Kilkenny,Fog,"Extremely dense fog in Kilkenny, visibility under 50 metres.",emma_brennan25
+2025-12-07 00:25,Athlone,Storm,Stormy evening in Athlone with driving rain and strong wind.,fionn_murphy29
+2025-12-07 10:20,Shannon,Fog,"Low fog banks around Shannon, lights needed at midday.",saoirse_murray72
+2025-12-07 18:45,Clonakilty,Heavy Rain,"Torrential downpour in Clonakilty, very poor visibility on the road.",liam_doyle29
+2025-12-07 20:10,Bantry,Storm,Loud thunder and hail in Bantry during the storm.,liam_brennan29
+2025-12-08 03:00,Waterford,Fog,"Extremely dense fog in Waterford, visibility under 50 metres.",fionn_kelly20
+2025-12-08 13:00,Kerry Airport,Heavy Rain,Heavy rain and surface water on streets in Kerry Airport.,rory_walsh27
+2025-12-08 22:35,Cork Airport,Fog,"Freezing fog in Cork Airport, flights and drivers delayed.",conor_brennan44
+2025-12-10 23:40,Dublin,Heavy Rain,Persistent heavy rain over Dublin for the past hour.,fionn_kelly27
+2025-12-11 14:40,Cork City,Storm,Loud thunder and hail in Cork City during the storm.,saoirse_murray72
+2025-12-12 01:55,Sligo,Storm,Stormy evening in Sligo with driving rain and strong wind.,sean_doyle41
+2025-12-12 09:05,Cork Airport,Heavy Rain,Persistent heavy rain over Cork Airport for the past hour.,rory_walsh38
+2025-12-13 18:40,Shannon,Heavy Rain,Persistent heavy rain over Shannon for the past hour.,roisin_daly98
+2025-12-14 07:40,Dublin,Storm,Loud thunder and hail in Dublin during the storm.,muireann_doyle50
+2025-12-16 03:45,Shannon,Storm,Loud thunder and hail in Shannon during the storm.,liam_doyle29
+2025-12-16 22:40,Belfast,Fog,"Thick fog in Belfast this morning, traffic moving slowly.",cian_obrien83
+2025-12-16 23:10,Bantry,High Winds,Windy conditions in Bantry making driving hard on exposed roads.,fionn_kelly20
+2025-12-18 06:10,Limerick,Heavy Rain,"Intense rain shower in Limerick, drains struggling to cope.",conor_brennan44
+2025-12-18 16:25,Shannon,Storm,"Storm conditions in Shannon, trees down on a side road.",aisling_fitzgerald2
+2025-12-19 08:25,Waterford,Storm,"Severe storm passing through Waterford, power flickered briefly.",cian_byrne67
+2025-12-19 13:10,Sligo,Storm,Loud thunder and hail in Sligo during the storm.,niamh_byrne57
+2025-12-20 15:40,Bantry,High Winds,"High winds in Bantry, difficult walking along the seafront.",liam_brennan29
+2025-12-21 14:35,Belfast,Heavy Rain,"Heavy rain in Belfast, roads flooding in places.",conor_brennan65
+2025-12-22 13:55,Dundalk,Fog,"Low fog banks around Dundalk, lights needed at midday.",sean_doyle41
+2025-12-22 14:05,Shannon,Storm,"Thunder and lightning over Shannon, heavy gusts too.",muireann_doyle50
+2025-12-23 12:05,Galway,Fog,"Extremely dense fog in Galway, visibility under 50 metres.",muireann_fitzgerald54
+2025-12-23 13:15,Dublin,Fog,"Low fog banks around Dublin, lights needed at midday.",liam_brennan29
+2025-12-23 16:20,Waterford,Heavy Rain,"Torrential downpour in Waterford, very poor visibility on the road.",muireann_fitzgerald54
+2025-12-25 05:50,Belfast,Fog,"Thick fog in Belfast this morning, traffic moving slowly.",ciara_obrien32
+2025-12-25 14:45,Sligo,Storm,"Thunder and lightning over Sligo, heavy gusts too.",cathal_ryan71
+2025-12-26 17:30,Clonakilty,Fog,"Freezing fog in Clonakilty, flights and drivers delayed.",ciara_obrien32
+2025-12-27 01:35,Limerick,High Winds,"High winds in Limerick, difficult walking along the seafront.",grainne_burke97
+2025-12-27 02:10,Dublin,Fog,"Low fog banks around Dublin, lights needed at midday.",roisin_daly98
+2025-12-27 18:20,Bantry,Fog,"Fog rolling in over Bantry, can barely see across the road.",emma_brennan25
+2025-12-28 11:40,Cork City,Heavy Rain,Heavy rain and surface water on streets in Cork City.,ciaran_kelly26
+2025-12-28 13:10,Cork City,High Winds,Windy conditions in Cork City making driving hard on exposed roads.,saoirse_murray72
+2025-12-28 18:25,Galway,High Winds,"Very strong winds in Galway, bins blown across the street.",ciara_obrien32
+2025-12-30 10:55,Cork Airport,Fog,"Low fog banks around Cork Airport, lights needed at midday.",saoirse_murray72
+2025-12-30 15:35,Dublin,Fog,"Extremely dense fog in Dublin, visibility under 50 metres.",fionn_kelly27
